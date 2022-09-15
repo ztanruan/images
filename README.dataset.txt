@@ -1,6 +1,6 @@
-# Self-Driving Car > 2021-10-18 10:21pm
-https://universe.roboflow.com/object-detection/self-driving-car-1nk9m
+# Self Driving Car > v2
+https://universe.roboflow.com/object-detection/self-driving-car-uxs4z
 
 Provided by Roboflow
-License: MIT
+License: CC BY 4.0
 
